@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.vs/
+
+build/
+cmake-build-*/
+
+*.user
